@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Ac",
+             "imgSrc":"/Images/item1.jpg",
+             "price":36500
+             },
+             {
+             "product_id":11,
+             "product_name":"Refrigerator",
+             "imgSrc":"/Images/item20.jpg",
+             "price":26500
+             },
+             {
+             "product_id":13,
+             "product_name":"Electric Kettle",
+             "imgSrc":"/Images/item9.jpg",
+             "price":579
+             },
+             {
+             "product_id":14,
+             "product_name":"Washing Machine",
+             "imgSrc":"/Images/item12.jpg",
+             "price":29990
+             },
+             {
+             "product_id":15,
+             "product_name":"Iron Box",
+             "imgSrc":"/Images/item5.jpg",
+             "price":699
+             },
+             {
+             "product_id":16,
+             "product_name":"Gas Stove",
+             "imgSrc":"/Images/item7.jpg",
+             "price":1549
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"Checked Shirt",
+            "imgSrc":"/Images/dress7.jpg",
+            "price":300
+            },
+            {
+            "product_id":18,
+            "product_name":"Boxers",
+            "imgSrc":"/Images/dress9.jpg",
+            "price":99
+            },
+            {
+            "product_id":19,
+            "product_name":"Mens T-shirt",
+            "imgSrc":"/Images/dress12.jpg",
+            "price":500
+            },
+            {
+            "product_id":20,
+            "product_name":"Mens Jeans",
+            "imgSrc":"/Images/dress14.jpg",
+            "price":1600
+            },
+            {
+            "product_id":21,
+            "product_name":"Russian Tracksuit",
+            "imgSrc":"/Images/mens5.jpg",
+            "price":999
+            },
+            {
+            "product_id":22,
+            "product_name":"Casual shirt",
+            "imgSrc":"/Images/mens7.jpg",
+            "price":3000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"Checked Shirt",
+             "imgSrc":"/Images/dress5.jpg",
+             "price":600
+             },
+             {
+             "product_id":24,
+             "product_name":"Boxers",
+             "imgSrc":"/Images/dress6.jpg",
+             "price":500
+             },
+             {
+             "product_id":25,
+             "product_name":"Women Salwar",
+             "imgSrc":"/Images/dress6.jpg",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"Women Watch",
+             "imgSrc":"/Images/dress6.jpg",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"Heels",
+             "imgSrc":"/Images/dress6.jpg",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"Women Bag",
+             "imgSrc":"/Images/dress6.jpg",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"Paneer Butter",
+              "imgSrc":"/Images/food1.jpg",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"Poori Masala",
+              "imgSrc":"/Images/food2.jpg",
+              "price":150
+              },
+              {
+              "product_id":31,
+              "product_name":"French Fries",
+              "imgSrc":"/Images/food3.jpg",
+              "price":150
+              },
+              {
+              "product_id":32,
+              "product_name":"Chicken Momos",
+              "imgSrc":"/Images/food4.jpg",
+              "price":299
+              },
+              {
+              "product_id":33,
+              "product_name":"Pizza",
+              "imgSrc":"/Images/food5.jpg",
+              "price":399
+              },
+              {
+              "product_id":34,
+              "product_name":"Burger",
+              "imgSrc":"/Images/food6.jpg",
+              "price":149
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"Javascript",
+              "imgSrc":"/Images/book3.jpg",
+              "price":499
+              },
+              {
+              "product_id":36,
+              "product_name":"Python",
+              "imgSrc":"/Images/book4.jpg",
+              "price":399
+              },
+              {
+              "product_id":37,
+              "product_name":"Android",
+              "imgSrc":"/Images/book5.jpg",
+              "price":799
+              },
+              {
+              "product_id":38,
+              "product_name":"C++",
+              "imgSrc":"/Images/book7.jpg",
+              "price":299
+              },
+              {
+              "product_id":39,
+              "product_name":"P Languages",
+              "imgSrc":"/Images/book8.jpg",
+              "price":1699
+              },
+              {
+              "product_id":40,
+              "product_name":"Angular",
+              "imgSrc":"/Images/book9.jpg",
+              "price":899
+              }]
+ 
+}
+]
